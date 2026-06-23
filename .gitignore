@@ -1,0 +1,13 @@
+pretrained_models/
+.venv/
+audio_cloned/
+voice_samples/
+*.mp3
+*.wav
+.modelscope_cache/
+__pycache__/
+*.pyc
+.DS_Store
+manifest*.json
+concat_cloned.txt
+concat_list.txt
